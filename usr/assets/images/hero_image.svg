@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 200">
+  <rect width="400" height="200" fill="#E3F2FD"/>
+  <circle cx="350" cy="50" r="30" fill="#FFEB3B"/>
+  <path d="M50 150 C 100 50, 250 50, 300 150" stroke="#4CAF50" stroke-width="10" fill="none"/>
+  <text x="20" y="40" font-family="Arial" font-size="20" fill="#333">¡Mantente fresco y seguro!</text>
+</svg>
